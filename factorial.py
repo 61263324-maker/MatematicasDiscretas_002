@@ -9,4 +9,5 @@ else:
     for i in range(1, n + 1):
         resultado *= i
 
-    print("El factorial de", n, "es:", resultado)
+    print("El factorial de", n, "es:", resultado) 
+    

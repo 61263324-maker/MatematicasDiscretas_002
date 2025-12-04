@@ -20,3 +20,6 @@ else:
     C = n_fact / (k_fact * n_k_fact)
 
     print("C(", n, ",", k, ") =", C)
+    P  = n ** k
+    print("P(", n, ",", k, ") =", P)
+    
